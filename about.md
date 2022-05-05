@@ -5,6 +5,9 @@ permalink: /about/
 ---
 My name is Peter Caya and this is my blog!
 
-In my daily role, I work as risk quant at a major bank. This draws on my background in scientific computing, statistics, artificial intelligence, and programming. I wanted to start keeping a blog on some topics I encounter in the realm of quantitative risk management, as well as some related topics from anti-money laundering and data-science.
+Some quick facts on me:
 
-In my free time I enjoy learning about history and foreign languages as well as training for ultramarathons.
+* I work as a validation quant specializing in margin risk models.
+* My background is in quantitative finance and scientific computing. 
+* I'm a fitness enthusiast; I do trail races and ultramarathons. I also practice weightlifting and bodyweight training. 
+* I'm an avid reader especially of history, economics, and mathematics.
