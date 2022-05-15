@@ -5,7 +5,7 @@ date: 2022-05-14
 tags: fitness
 ---
  
-![](https://raw.githubusercontent.com/poc1673/petercaya.com/main/marathonstart2.png)
+![](https://raw.githubusercontent.com/poc1673/petercaya.com/main/_posts/marathonstart2.png)
 
 My distance running journey began eight years ago when my friend and I were hiking in the Adirondacks and decided to run a 15 mile train race ([Wellsville's RidgeWalk and Run for those curious](http://www.ridgewalk.com/)) near my home town. Long story short - we had a blast running those hills! 
 
