@@ -1,9 +1,9 @@
 ---
+layout: post
 title: "The side-effects of marathon running"
 date: 2022-05-14
+tags: fitness
 ---
-
-
  
 ![](https://github.com/poc1673/petercaya.com/blob/111bd5f81d22fb3970ac52ee75f028097f1ee0ad/marathonstart2.png)
 
