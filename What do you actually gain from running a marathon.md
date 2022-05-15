@@ -10,7 +10,7 @@ date: 2022-05-14
 
 My distance running journey began eight years ago when my friend and I were hiking in the Adirondacks and decided to run a 15 mile train race ([Wellsville's RidgeWalk and Run for those curious](http://www.ridgewalk.com/)) near my home town. Long story short - we had a blast running those hills! 
 
-PHOTO OF RIDGEWALK HERE
+![](https://github.com/poc1673/petercaya.com/blob/8bdace48c013456e2f7dbff3b47b3026039084f0/ridgewalkphoto.png)
 
 It was one of the best experiences of my life. From then on, I kept up with running and it became a big part of my life.What I want to do in this post is explain to the reader some of the ways that this odd practice has brought to my life.
 
