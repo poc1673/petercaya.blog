@@ -1,12 +1,13 @@
 ---
-title: "How has marathon running changed my life?"
+title: "The side-effects of marathon running"
 date: 2022-05-14
 ---
 
 
  
-![](https://github.com/poc1673/petercaya.com/blob/52b0fdf025b72a88197e2281babe2e2476e4178a/marathonstart.png)
-example
+![](https://github.com/poc1673/petercaya.com/blob/52b0fdf025b72a88197e2281babe2e2476e4178a/marathonstart2.png)
+
+
 My distance running journey began eight years ago when my friend and I were hiking in the Adirondacks and decided to run a 15 mile train race ([Wellsville's RidgeWalk and Run for those curious](http://www.ridgewalk.com/)) near my home town. Long story short - we had a blast running those hills! 
 
 PHOTO OF RIDGEWALK HERE
