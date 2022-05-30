@@ -80,13 +80,11 @@ The heart of the application is the bank review tab which allows the user to sel
 
 The same aggregation procedure is used for the bank being reviewed and the state aggregate amounts. For the peer results, the loan amounts and the field are combined together as a group before the percentage value is created. This amounts to creating a balance weighted average of the loan performance of the peer group. One issue that there was in the original data is that there isn't a simple one-to-one mapping available in the call reports for the RSSD ID and the name of the actual bank. 
 
-**| BANK REVIEW TAB INFORMATION|**
-
+![](https://raw.githubusercontent.com/poc1673/petercaya.com/main/_posts/CallReportPost%20-%20bank%20review%20tab.PNG) 
 
 To help the user identify the bank of interest as well as potential peers, I added an "RSSD Lookup" tab:
 
-**|_posts\CallReportPost - bank lookup info.PNG|
-**
+![](https://raw.githubusercontent.com/poc1673/petercaya.com/main/_posts/CallReportPost%20-%20bank%20lookup%20info.PNG)
 
 A final touch I added was to allow the user to download the data from the app table. Eventually, I may expand this piece out to give the user more options, but at this time, it only provides the data used in the chart for the bank review tab.
 
