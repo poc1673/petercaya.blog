@@ -7,10 +7,10 @@ tags: fitness
  
 ![](https://raw.githubusercontent.com/poc1673/petercaya.com/main/_posts/marathonstart2.png)
 
-My distance running journey began eight years ago when my friend and I were hiking in the Adirondacks and decided to run a 15 mile train race ([Wellsville's RidgeWalk and Run for those curious](http://www.ridgewalk.com/)) near my home town. Long story short - we had a blast running those hills! 
+My distance running journey began eight years ago when my friend and I were hiking in the Adirondacks and decided to run a 15 mile train race ([Wellsville's RidgeWalk and Run for those curious](http://www.ridgewalk.com/)) near my hometown. Long story short - we had a blast running those hills! 
 
- 
-It was one of the best experiences of my life. From then on, I kept up with running and it became a big part of my life.What I want to do in this post is explain to the reader some of the ways that this odd practice has brought to my life.
+ It was one of the best experiences of my life. From then on, I kept up with running, and it became a big part of my life. What I want to do in this post is explain to the reader some of the ways that this odd practice has changed my life.
+
 
 ## I've been humbled by the people I've met
 I took pride in my training progress but I wasn't ready for the experience of being humbled by the people I'd meet at the races. While the true competitors who can finish a race in 2 hours and 14 minutes are remarkeable, I'm more awed by the people I've met whose have singular discipline and stories.I've met people who had compelling "origin stories" for how they began running, people who had notched more than 200 marathons on their belt, and people who have done amazing adventure races. If you're at a race, you're likely to find someone with a story that will wow you and make you reevaluate what may be possible for you to do too. 
