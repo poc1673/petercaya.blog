@@ -17,9 +17,6 @@ At this time, I'v completed the first step of my project which was to:
 I'm using this blog post to introduce and document my process but this post won't include fine details or extensive code. I will eventually load my project as-is to Github and share a link, but someone with motivation can replicate my steps using the resources in this post, Selenium, and R Shiny. I am in the process of reorganizing my project before moving forward with it and will update this post when I load it to Github.
 
 # Creating the call report data-set
-
-
-
 Our keystone data resource is the call report data available on the FFIEC website. For those unfamiliar, I've copied the definition of call reports from [Investopedia](https://www.investopedia.com/terms/c/callreport.asp) below:
 
 > A call report is a regulatory report that must be filed by banks in the U.S. on a quarterly basis with the FDIC. A call report contains information about the bank's financial health, and by examining multiple call reports it can provide insight regarding the welfare of the U.S. banking system more broadly. 
@@ -28,7 +25,7 @@ Our keystone data resource is the call report data available on the FFIEC websit
 
 The reports can be reviewed and downloaded [here](https://cdr.ffiec.gov/public/ManageFacsimiles.aspx). I utilized the bulk call report downloader available [one this page](https://cdr.ffiec.gov/public/pws/downloadbulkdata.aspx). For this example, I selected the Single Period Bulk Call Report and downloaded it as a tab delimited file. It should be noted that you can download the call report history for each instution, but this leads to a large number of requests to the FFIEC website which makes the data scraping process error prone. 
 
-|SCREENSHOT OF CallReportPost - bulk_call_report picture |
+![](https://raw.githubusercontent.com/poc1673/petercaya.com/main/_posts/CallReportPost%20-%20bulk_call_report%20picture.png)
 
 I used the information above to create a Selenium program that would download the single period bulk call report for every date available.
 
