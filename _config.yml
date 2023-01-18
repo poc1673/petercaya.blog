@@ -17,7 +17,7 @@ title: Peter Caya's Blog
 description: >- # this means to ignore newlines until "baseurl:"
   Peter Caya's Blog
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "petercaya.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "petercaya.blog" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #linkedin_username: jekyllrb
 #github_username:  jekyll
