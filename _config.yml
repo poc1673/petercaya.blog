@@ -1,4 +1,3 @@
- 
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
 # yourself editing this file very often, consider using Jekyll's data files
@@ -24,11 +23,15 @@ url: "petercaya.blog" # the base hostname & protocol for your site, e.g. http://
 
 # Build settings
 markdown: kramdown
-theme: minima
+#theme: minima
+theme: jekyll-theme-millennial
+paginate: 5 # This is the new line - number of posts to show per page
+
 # Google services
 #google_analytics: G-L9MRDR5E94
 plugins:
   - jekyll-feed
+  - jekyll-paginate # Add this line if not already included among the plugins
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
